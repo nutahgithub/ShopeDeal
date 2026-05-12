@@ -33,7 +33,7 @@ Trong giai doan MVP, khong implement tu dong dat hang, tu dong dang nhap Shopee,
 - Tat ca noi dung lien quan den code phai dung tieng Anh, bao gom ten file, folder, component, function, variable, type, interface, model, field, enum, route, commit message, comment trong code va noi dung hien thi trong code sample.
 - Uu tien code don gian, ro rang, de mo rong.
 - Truoc khi implement moi chuc nang hoac nhom cong viec lon, tao file plan trong `docs/`.
-- Ten file plan theo format `feature-name-YYYY-MM-DD_HH-mm.md`, vi du `product-search-2026-05-12_21-25.md`.
+- Ten file plan theo format `YYYY-MM-DD_HH-mm-feature-name.md`, vi du `2026-05-12_21-25-product-search.md`.
 - File plan can mo ta muc tieu, pham vi, thu tu implement, files du kien thay doi, cach verify va dieu kien hoan thanh.
 - Khong tao abstraction moi neu chua co nhu cau ro rang.
 - Tach business logic khoi UI component neu logic co the tai su dung.
